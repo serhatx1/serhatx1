@@ -10,7 +10,7 @@
 - Programming Languages: HTML, CSS, JavaScript, React, Node.js, SQL.
 
 ## Projects
--This is my first major project (in Turkish): [YouTube Link](https://www.youtube.com/watch?v=TG_Tx0f72Ls&t=140s).
+- This is my first major project (in Turkish): [YouTube Link](https://www.youtube.com/watch?v=TG_Tx0f72Ls&t=140s).
 
 ## Connect with Me
 - LinkedIn: [Serhat Arslan](https://www.linkedin.com/in/serhat-arslann/).
