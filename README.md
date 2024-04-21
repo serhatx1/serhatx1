@@ -2,18 +2,18 @@
 
 ## About Me
 - 🎓 I'm currently a first-year computer engineering student.
-- 💻 My interests lie in software development, particularly BACKEND,CLOUD
-- 🌱 I'm currently learning SQL,DEVOPS Techs.
-- 📫 You can reach me at serhatarslan2002@gmail.com
+- 💻 My interests lie in software development, particularly Backend and Cloud.
+- 🌱 I'm currently learning SQL and DEVOPS Techs.
+- 📫 You can reach me at serhatarslan2002@gmail.com.
 
 ## Skills
-- Programming Languages: HTML,CSS,JAVASCRIPT,REACT,NODEJS,SQL
+- Programming Languages: HTML, CSS, JavaScript, React, Node.js, SQL.
 
 ## Projects
-THATS MY FIRST BIG PROJECT(TURKISH) : https://www.youtube.com/watch?v=TG_Tx0f72Ls&t=140s
+This is my first major project (in Turkish): [YouTube Link](https://www.youtube.com/watch?v=TG_Tx0f72Ls&t=140s).
 
 ## Connect with Me
-- LinkedIn:https://www.linkedin.com/in/serhat-arslann/
+- LinkedIn: [Serhat Arslan](https://www.linkedin.com/in/serhat-arslann/).
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatx1&show_icons=true&theme=radical)
