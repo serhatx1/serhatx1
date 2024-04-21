@@ -16,7 +16,7 @@ THATS MY FIRST BIG PROJECT(TURKISH) : https://www.youtube.com/watch?v=TG_Tx0f72L
 - LinkedIn:https://www.linkedin.com/in/serhat-arslann/
 
 ## GitHub Stats
-https://github-readme-stats.vercel.app/api?username=serhatx1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatx1&show_icons=true&theme=radical)
 
 ## Top Languages
-https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
