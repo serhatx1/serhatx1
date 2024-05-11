@@ -16,7 +16,6 @@
 - LinkedIn: [Serhat Arslan](https://www.linkedin.com/in/serhat-arslann/).
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=serhatx1&show_icons=true&theme=radical)
-
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
