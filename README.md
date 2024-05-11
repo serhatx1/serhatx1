@@ -18,4 +18,4 @@
 ## GitHub Stats
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&hide_progress=true)
