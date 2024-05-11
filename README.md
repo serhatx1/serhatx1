@@ -16,7 +16,6 @@
 - LinkedIn: [Serhat Arslan](https://www.linkedin.com/in/serhat-arslann/).
 
 ## GitHub Stats
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/serhatx1/langs)](https://githubtrends.io)
 
 ## Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatx1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
