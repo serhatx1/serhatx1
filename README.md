@@ -4,7 +4,7 @@
 - 🎓 I'm currently a first-year computer engineering student.
 - 💻 My interest is in software development, especially Backend and Cloud.
 - 🌱 I'm currently learning SQL and DEVOPS Techs.
-- 📫 You can reach me at serhatarslan2002@gmail.com.
+- 📫 You can reach me at serhatarslan2000@gmail.com.
 
 ## Skills
 - Programming Languages: HTML, GO, CSS, JavaScript, React, Node.js, SQL.
