@@ -7,7 +7,7 @@
 - 📫 You can reach me at serhatarslan2000@gmail.com.
 
 ## Skills
-- Programming Languages: HTML, GO, CSS, JavaScript, React, Node.js, SQL.
+- Programming Languages: GO, JavaScript, React, Node.js, SQL, HTML, CSS.
 
 ## Projects
 - This is my first major project (in Turkish): [YouTube Link](https://www.youtube.com/watch?v=TG_Tx0f72Ls&t=140s).
