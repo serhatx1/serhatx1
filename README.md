@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 I'm currently a second-year computer engineering student.
 - 💻 My interest is in software development, especially Backend and Cloud.
-- 🌱 I'm currently learning SQL and DEVOPS Techs.
+- 🌱 I'm currently learning DEVOPS Techs.
 - 📫 You can reach me at serhatarslan2000@gmail.com.
 
 ## Skills
